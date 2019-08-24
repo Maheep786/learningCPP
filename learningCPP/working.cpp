@@ -8,7 +8,7 @@ int main()
     
     switch (i) {
         case 0 ... 20:
-            printf("randomShit");
+            printf("randomShit \n test - 1 \n");
             break;
             
         default:
